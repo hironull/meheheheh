@@ -38,7 +38,7 @@ const Home = () => {
     <div className="relative">
       <Helmet>
         <title>
-          Watch Anime Online, Free Anime Streaming Online on watanuki Anime
+          Watch Anime Online, Free Anime Streaming Online on AniKaisen Anime
           Website
         </title>
         <meta
