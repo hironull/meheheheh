@@ -22,20 +22,20 @@ const Footer = () => {
       <AZ />
       <div className="desclaimer mt-5 mb-2 flex flex-col justify-center items-center">
         <p className="text-sm text-center text-gray-500">
-          Watanuki does not store any files on our server, <br /> we only linked
+          AniKaisen does not store any files on our server, <br /> we only linked
           to the media which is hosted on 3rd party services.{" "}
         </p>
-        <p className="mt-4 text-gray-500">© watanuki All rights reserved.</p>
+        <p className="mt-4 text-gray-500">© AniKaisen All rights reserved.</p>
         <div className="btns flex justify-center my-2 items-center gap-2">
           <a
-            href="https://github.com/yahyaMomin"
+            href="https://discord.gg/jngVkQFFXU"
             target="_blank"
             className="text-gray-500 hover:text-white text-2xl"
           >
-            <FaGithub />
+            <FaDiscord />
           </a>
           <a
-            href="https://t.me/Mst83din"
+            href="https://t.me/AniKaisenofficial"
             target="_blank"
             className="text-gray-500 hover:text-blue-300 text-2xl"
           >
