@@ -28,7 +28,7 @@ const Footer = () => {
         <p className="mt-4 text-gray-500">© AniKaisen All rights reserved.</p>
         <div className="btns flex justify-center my-2 items-center gap-2">
           <a
-            href="https://github.com/t1t4nxanikaisen/"
+            href="https://github.com/space"
             target="_blank"
             className="text-gray-500 hover:text-white text-2xl"
           >
